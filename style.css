@@ -1,0 +1,18 @@
+.heading{
+width:80% ;
+font-size:25px ;
+font-variant:small-caps ;
+}
+#camera{
+    border:2px dashed white ;
+    width:350px ;
+    height:300px ;
+
+}
+.name_of_objects{
+    color:darkblue ;
+
+    background-color: aqua;
+
+
+}
